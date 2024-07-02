@@ -4,3 +4,6 @@ build: docker build -t <name> .
 run: docker run <name> 
 
 2: containerize react app
+
+
+build
